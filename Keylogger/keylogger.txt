@@ -1,0 +1,7 @@
+%%%%%%% hi i4[CAPS_LOCK]M[CAPS_LOCK] asarah''''''''% cmd[CAPS_LOCK]D[CAPS_LOCK]
+cd[CTRL]¢[CTRL]¢¢[CTRL]¢[CTRL]¢[CTRL]¢[CTRL][CTRL]¢[CTRL]¢¢[CTRL][CTRL]¢¢[CTRL][CTRL]¢[CTRL]¢[CTRL]c [CTRL]¢v
+ task[CAPS_LOCK][CAPS_LOCK]kill%'o[CAPS_LOCK]FoIM [CAPS_LOCK]keyloggernexe
+&%%%%%%%%%%%%%%
+[CAPS_LOCK]TASKKILL [CAPS_LOCK]okeyloggernexe
+&¡[SHIFT]¡[SHIFT][SHIFT]¡¡[SHIFT]¡[SHIFT]¡[SHIFT]¡[SHIFT]¡[SHIFT]¼
+[CTRL]¢[CTRL][CTRL]¢¢[CTRL]¢[CTRL]¢[CTRL]¢[CTRL]¢[CTRL][CTRL]¢[CTRL]¢¢[CTRL]¢[CTRL]c[CTRL]¢v%%%%%%%keylogger
